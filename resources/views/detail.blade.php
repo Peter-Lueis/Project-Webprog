@@ -46,6 +46,31 @@
     }
 
 </style>
+<div>
+    <div style="background-color:">
+        <div class="container" >
+            <div>
+                <H2>title</H2>
+                <p>A Magical World Of Hot Air Ballons</p>
+            </div>
+            <div class="media">
+                <div class="media-body text-center">
+                    <iframe class="rounded" width="1000" height="500" src="https://youtu.be/3Kxf2dHlDpQ" frameborder="0"></iframe>
+                </div>
+            </div>
+            <div>
+                <h4>Things you have to do here</h4>
+                <h4> - Drink Hot Chocolate</h4>
+                <h4> - Ride Hot Air Balon</h4>
+            </div>
+            <div class="mt-4">
+                <h4>Our Review</h4>
+                <div>
+                    <img class="mb-5" width="300" height="200" src="https://images.tokopedia.net/img/JFrBQq/2022/6/22/777a8619-4f1f-4ded-ad73-3a89fa2797ce.jpg" class="rounded" alt="" >
+                </div>
+            </div>
+        </div>
+    </div>
 <div class="container justify-content-center d-flex flex-column" style="margin-bottom:200px;">    
     <div id="review">
 
